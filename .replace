@@ -1,0 +1,5 @@
+//replace example
+var awesomeThoughts="Humberto is AWESOME";
+var funThoughts= awesomeThoughts.replace("AWESOME", "FUN");  //.replace("OLD","NEW");
+console.log(funThoughts);
+
